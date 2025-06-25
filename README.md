@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey+I%27m+Sreelakshmi&animation=fadeIn&type=waving&color=gradient&height=120" />
+</p>
 # Hi, I’m Sreelakshmi Girish 👋  
 **Aspiring Data Analyst | B.Tech Electronics & Communication (CUSAT, Kochi, 2020–2024)**
 
